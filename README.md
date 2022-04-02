@@ -1,2 +1,2 @@
 # Object-Detection
-Object detection within an image using OpenCV Template Matching
+Object detection within an image using Python OpenCV Template Matching
